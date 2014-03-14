@@ -1,0 +1,20 @@
+{
+    "information": {
+        "currentQuantity": "5",
+        "questions": [
+            {"q":"How can good design be used to experience a good death?"},
+            {"q":"How can you interact with death?"},
+            {"q":"What is the art of dying?"},
+            {"q":"If your health is gamified, what do you win?"},
+            {"q":"How would you like to measure your wellbeing? "}
+        ],
+        "answers": [
+            {"a":"Thanks for your thoughts. Good design is the marriage of beauty and function, and these principles should translate to the pursuit of a good death - one defined with meaning and quality. We want to open a dialogue about all aspects of death, and propose new ways to approach dying. Using a transdisciplinary approach we work with designers, writers, anthropologists, doctors and others to define a good death through good design. Read more about our studio, and get in touch."},
+            {"a":"Thanks for replying. Death, despite happening to all of us, is an issue we're not often comfortable discussing. It is a 20th century issue to detach and deny ourselves from the reality of dying. Our applied research in interaction design will help people, including those with chronic illnesses, to have a more dynamic experience with their own lives - and allow us to experience death in a 21st century manner. Find out more, below."},
+            {"a":"Thanks for your reply. The Ars Moriendi, or Art of Dying, was a 15th century Christian text created to provide guidance for the suffering and their families on the death bed. The Church needed a new way to disseminate the most important information required for a 'good death' as many priests had persisted during the Black Plague. With chapters dedicated to; rules of behaviour at the death bed and questions to ask the dying man, it was an innovative and practical way of dealing with the dying process. We need a new Art of Dying for the 21st century, one that transforms death as much as the original did. Read more about how, below."},
+            {"a":"Thanks! To manage health we create long and short-term goals, which are great, but with the influx of apps that measure health we've become consumed by a mountain of statistical data. We want to create different ways to think about your health. By viewing holistically how our complex bodily network influences ourselves and each other, we believe you can win more than just a medal. Read more about our research, below."},
+            {"a":"Thanks for answering. With wearable devices and quantified data we can view and experience ourselves with vast new detail and precision, however, raw data doesn't infer wisdom by itself. Collating and measuring wellbeing is a harder task by virtue of its complexity and impermanence; if we try to use this data in a different way, we could make big changes to our wellbeing. This is something we're really interested in, and we're keen to connect with people who think the same. Read more, to find out about our work."}
+        ]
+    }
+}
+

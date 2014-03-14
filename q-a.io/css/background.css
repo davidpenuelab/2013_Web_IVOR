@@ -1,0 +1,158 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/*background animations*/
+.set1{
+	background:#A9C5E3;
+	animation-name:animation1;
+	animation-duration:35s;
+	animation-timing-function:linear;
+	animation-iteration-count:infinite;
+	animation-play-state:running;
+	animation-direction: alternate;
+	/* Safari and Chrome: */
+	-webkit-animation-name:animation1;
+	-webkit-animation-duration:35s;
+	-webkit-animation-timing-function:linear;
+	-webkit-animation-iteration-count:infinite;
+	-webkit-animation-play-state:running;
+	-webkit-animation-direction: alternate;
+}
+.set2{
+	background:#A9C5E3;
+	animation-name:animation2;
+	animation-duration:35s;
+	animation-timing-function:linear;
+	animation-iteration-count:infinite;
+	animation-play-state:running;
+	animation-direction: alternate;
+	/* Safari and Chrome: */
+	-webkit-animation-name:animation2;
+	-webkit-animation-duration:35s;
+	-webkit-animation-timing-function:linear;
+	-webkit-animation-iteration-count:infinite;
+	-webkit-animation-play-state:running;
+	-webkit-animation-direction: alternate;
+}
+.set3{
+	background:#A9C5E3;
+	animation-name:animation3;
+	animation-duration:35s;
+	animation-timing-function:linear;
+	animation-iteration-count:infinite;
+	animation-play-state:running;
+	animation-direction: alternate;
+	/* Safari and Chrome: */
+	-webkit-animation-name:animation3;
+	-webkit-animation-duration:35s;
+	-webkit-animation-timing-function:linear;
+	-webkit-animation-iteration-count:infinite;
+	-webkit-animation-play-state:running;
+	-webkit-animation-direction: alternate;
+}
+.set4{
+	background:#A9C5E3;
+	animation-name:animation4;
+	animation-duration:35s;
+	animation-timing-function:linear;
+	animation-iteration-count:infinite;
+	animation-play-state:running;
+	animation-direction: alternate;
+	/* Safari and Chrome: */
+	-webkit-animation-name:animation4;
+	-webkit-animation-duration:35s;
+	-webkit-animation-timing-function:linear;
+	-webkit-animation-iteration-count:infinite;
+	-webkit-animation-play-state:running;
+	-webkit-animation-direction: alternate;
+}
+
+/******************************************/
+/********************set1******************/
+/******************************************/
+@keyframes animation1{
+0%   {background:#A9C5E3;}
+16%  {background:#4CA1CD; }
+32%  {background:#C1C8E4; }
+48%  {background:#9FADD6; }
+64% {background:#497AB7; }
+80% {background:#416292; }
+100% {background:#6B7FA7; }
+}
+/* Safari and Chrome */
+@-webkit-keyframes animation1 {
+0%   {background:#A9C5E3;}
+16%  {background:#4CA1CD; }
+32%  {background:#C1C8E4; }
+48%  {background:#9FADD6; }
+64% {background:#497AB7; }
+80% {background:#416292; }
+100% {background:#6B7FA7; }
+}
+/******************************************/
+/********************set2******************/
+/******************************************/
+@keyframes animation2{
+0%   {background:#A9C5E3;}
+16%  {background:#4CA1CD; }
+32%  {background:#C1C8E4; }
+48%  {background:#9FADD6; }
+64%  {background:#497AB7; }
+80%  {background:#416292; }
+100% {background:#6B7FA7; }
+}
+/* Safari and Chrome */
+@-webkit-keyframes animation2 {
+0%   {background:#A9C5E3;}
+16%  {background:#4CA1CD; }
+32%  {background:#C1C8E4; }
+48%  {background:#9FADD6; }
+64%  {background:#497AB7; }
+80%  {background:#416292; }
+100% {background:#6B7FA7; }
+}
+/******************************************/
+/********************set3******************/
+/******************************************/
+@keyframes animation3{
+0%   {background:#A9C5E3;}
+16%  {background:#4CA1CD; }
+32%  {background:#C1C8E4; }
+48%  {background:#9FADD6; }
+64% {background:#497AB7; }
+80% {background:#416292; }
+100% {background:#6B7FA7; }
+}
+/* Safari and Chrome */
+@-webkit-keyframes animation3 {
+0%   {background:#A9C5E3;}
+16%  {background:#4CA1CD; }
+32%  {background:#C1C8E4; }
+48%  {background:#9FADD6; }
+64% {background:#497AB7; }
+80% {background:#416292; }
+100% {background:#6B7FA7; }
+}
+/******************************************/
+/********************set4******************/
+/******************************************/
+@keyframes animation4{
+0%   {background:#A9C5E3;}
+16%  {background:#4CA1CD; }
+32%  {background:#C1C8E4; }
+48%  {background:#9FADD6; }
+64% {background:#497AB7; }
+80% {background:#416292; }
+100% {background:#6B7FA7; }
+}
+/* Safari and Chrome */
+@-webkit-keyframes animation4 {
+0%   {background:#A9C5E3;}
+16%  {background:#4CA1CD; }
+32%  {background:#C1C8E4; }
+48%  {background:#9FADD6; }
+64% {background:#497AB7; }
+80% {background:#416292; }
+100% {background:#6B7FA7; }
+}
