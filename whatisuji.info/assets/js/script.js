@@ -15,12 +15,11 @@ $(document).ready(function(){
 
 function updateResize(){
     $('.section').css('min-height',$(window).height()+'px')
+    $('#gallery').css('max-height',$(window).height()+'px')
     setTimeout(function(){centerVideo();},1000);
 }
 
 function centerVideo(){
-	console.log("VIDEO "+$('#video').height());
-	console.log("WINDOW"+$(window).height())
 	var margin_vid = $(window).height()/2 - $('#video').height()/2;
 	$('#video').css('margin-top',margin_vid+'px');
 }

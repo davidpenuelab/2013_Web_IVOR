@@ -130,7 +130,13 @@ p{ font-size: 20px; line-height: 22px;}
 #load4{
 	display: none;
 }
-
+#gallery{
+	overflow-y: hidden;
+}
+.nopadding{
+	padding: 0 !important;
+	margin: 0 !important;	
+}
 /*****************************************************************/
 /* HOME **********************************************************/
 /*****************************************************************/
@@ -146,6 +152,23 @@ p{ font-size: 20px; line-height: 22px;}
 #credits p{
 	text-align: center;
 }
+
+.carousel-control.left, .carousel-control.right{
+	background: none;
+}
+.carousel-control{
+	width: 50%;
+}
+.carousel-control.left{
+	cursor: url("/assets/imgs/leftArrow.png"),pointer;
+}
+.carousel-control.right{
+	cursor: url("/assets/imgs/rightArrow.png"),pointer;
+}
+.carousel-uji img{
+	width: 100%;
+}
+
 /*****************************************************************/
 /* Infinite Scroll ***********************************************/
 /*****************************************************************/
